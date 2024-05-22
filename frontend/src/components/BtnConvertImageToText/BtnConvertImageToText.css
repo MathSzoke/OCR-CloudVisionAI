@@ -1,0 +1,14 @@
+.areaBtnConvert
+{
+    place-self: normal;
+}
+
+@media (max-width: 1062px)
+{
+    #btnTransfer
+    {
+        text-align: center;
+        width: 100% !important;
+        justify-content: center;
+    }
+}

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CloudVisionAI", "CloudVisionAI\CloudVisionAI.csproj", "{8A3FFAEF-C756-4390-8B31-69C754ECBD84}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8A3FFAEF-C756-4390-8B31-69C754ECBD84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A3FFAEF-C756-4390-8B31-69C754ECBD84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A3FFAEF-C756-4390-8B31-69C754ECBD84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A3FFAEF-C756-4390-8B31-69C754ECBD84}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A280EEB5-0633-470B-866A-73E971456A67}
+	EndGlobalSection
+EndGlobal

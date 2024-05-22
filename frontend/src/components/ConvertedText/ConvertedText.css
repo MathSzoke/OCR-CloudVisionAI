@@ -1,0 +1,21 @@
+.contentText
+{
+    width: 500px;
+    height: 100%;
+    border: 1px solid var(--bs-secondary-bg);
+    padding: 1em;
+    overflow: auto;
+}
+
+[contenteditable]:focus
+{
+    outline: 0px solid transparent;
+}
+
+@media (max-width: 1062px)
+{
+    .contentText
+    {
+        width: 100% !important;
+    }
+}
